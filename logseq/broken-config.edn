@@ -218,7 +218,11 @@
  :ref/linked-references-collapsed-threshold 50
 
  ;; Favorites to list on the left sidebar
- :favorites []
+<<<<<<< HEAD
+ :favorites ["Thoughts" "Readings" "闻"]
+=======
+ :favorites ["闻"]
+>>>>>>> parent of 8a98a0e (Auto saved by Logseq)
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
