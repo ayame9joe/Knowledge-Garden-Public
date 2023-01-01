@@ -1,1 +1,3 @@
 - [[Readings]]
+- [[Thoughts]]
+- [[]]
